@@ -56,5 +56,6 @@ int main()
     lcm=m*n/r;
     printf("Least common multiple is   %d\n",lcm);
 
+
     return 0;
 }

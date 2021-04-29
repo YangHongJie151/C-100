@@ -16,5 +16,6 @@ int main()
     }
     printf("这两个数的最大公约数是%d，最小公倍数是%d\n",b,n/b);
     
+    
     return 0;
 }
