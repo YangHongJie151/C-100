@@ -25,6 +25,5 @@ int main()
         bonus=bonus10+(i-1000000)*0.01;
     }
     printf("提成为：bonus=%lf",bonus);
- 
     printf("\n");
 }

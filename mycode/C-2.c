@@ -21,7 +21,6 @@ int main()
     double commission=0;
     printf("please input Bonus:\n");
     scanf("%lf",&I);
-    
     while(1)
     {
         if(I<0)
