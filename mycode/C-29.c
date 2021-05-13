@@ -20,7 +20,7 @@ void fun(int num)
 int main()
 {
     int num;
-    printf("please input number:");
+    printf("please input number:");//输入数字
     scanf("%d",&num);
 
     if(num<0 || num>99999)
@@ -35,6 +35,5 @@ int main()
         printf("count=%d\n",count);
     }
     
-
     return 0;
 }
